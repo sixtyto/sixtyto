@@ -6,6 +6,7 @@ Frontend developer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixtyto@gmail.com)](mailto:sixtyto@gmail.com)
 <br>
 ### Check out my projects! 🚧
+---
 #### [Typescript Quiz](https://ts-quiz.surge.sh/) ❔ | [code 💾](https://github.com/sixtyto/ts-quiz)
 > quiz game using [Trivia API](https://opentdb.com/)
 
