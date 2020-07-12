@@ -5,14 +5,14 @@ Frontend developer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixtyto@gmail.com)](mailto:sixtyto@gmail.com)
 <br>
 ### Check out my projects! 🚧
-#### [Typescript Quiz](https://ts-quiz.surge.sh/) ❔ | [code 💾](https://github.com/sixtyto/ts-quiz)
+#### [Typescript Quiz](https://ts-quiz.surge.sh/) ❔ | [code](https://github.com/sixtyto/ts-quiz) 💾
 > quiz game using [Trivia API](https://opentdb.com/)
 
-#### [React snake](https://sixtyto-react-snake.surge.sh/) 🐍 | [code 💾](https://github.com/sixtyto/Snake)
+#### [React snake](https://sixtyto-react-snake.surge.sh/) 🐍 | [code](https://github.com/sixtyto/Snake) 💾
 > game using React
 
-#### [Pacman game](https://sixtyto.github.io/pacman/) 👻 | [code 💾](https://github.com/sixtyto/pacman)
+#### [Pacman game](https://sixtyto.github.io/pacman/) 👻 | [code](https://github.com/sixtyto/pacman) 💾
 > game using JavaScript
 
-#### [Weather app](https://sixtyto.github.io/weather-app/) 🌡️ | [code 💾](https://github.com/sixtyto/weather-app)
+#### [Weather app](https://sixtyto.github.io/weather-app/) 🌡️ | [code](https://github.com/sixtyto/weather-app) 💾
 > weather app using React
