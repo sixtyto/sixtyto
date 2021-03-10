@@ -5,6 +5,10 @@ Frontend developer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixtyto@gmail.com)](mailto:sixtyto@gmail.com)
 <br>
 ### Check out my projects! 🚧
+
+#### [Rectangle app](http://prostokaty.surge.sh/) 🟥🟧🟨 | [code](https://github.com/sixtyto/rectangles) 💾
+> drawing rectangles using Vue, Vuex, TS
+
 #### [Typescript Quiz](https://ts-quiz.surge.sh/) ❔ | [code](https://github.com/sixtyto/ts-quiz) 💾
 > quiz game using [Trivia API](https://opentdb.com/)
 
@@ -16,3 +20,4 @@ Frontend developer
 
 #### [Weather app](https://sixtyto.github.io/weather-app/) 🌡️ | [code](https://github.com/sixtyto/weather-app) 💾
 > weather app using React
+
