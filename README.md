@@ -7,7 +7,7 @@ Frontend developer
 ### Check out my projects! 🚧
 
 #### [Rectangle app](http://prostokaty.surge.sh/) 🟥 | [code](https://github.com/sixtyto/rectangles) 💾
-> drawing rectangles using Vue, Vuex, TS 🚧 under construction 🚧
+> drawing rectangles using Vue, Vuex, TS
 
 #### [Typescript Quiz](https://ts-quiz.surge.sh/) ❔ | [code](https://github.com/sixtyto/ts-quiz) 💾
 > quiz game using [Trivia API](https://opentdb.com/)
